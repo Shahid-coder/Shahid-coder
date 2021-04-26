@@ -2,7 +2,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am shahid ansari and i am a software developer. I am from West Bengal and i am currently working from home .You can find me on 
 ## &#x270d; Blog & Writing
-Apart from coding,I also maintain a blog - you can find my articles on my website at [blogger](shahid-coder.blogspot.com) and on [dev.to](https://dev.to/shahidcoder_78)
+Apart from coding,I also maintain a blog - you can find my articles on my website at [blogger](https://shahid-coder.blogspot.com) and on [dev.to](https://dev.to/shahidcoder_78)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-visual_studio_code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
