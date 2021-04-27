@@ -5,7 +5,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
 Apart from coding,I also maintain a blog - you can find my articles on my website at [blogger](https://shahid-coder.blogspot.com) and on [dev.to](https://dev.to/shahidcoder_78)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-visual_studio_code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-visualstudiocode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
