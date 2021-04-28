@@ -1,6 +1,7 @@
 <!--**Shahid-coder/Shahid-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am shahid ansari and i am a software developer. I am from West Bengal and i am currently working from home .You can find me on 
+I am shahid ansari and i am a software developer. I am from West Bengal and i am currently working from home .You can find me on
+
 <a href="https://discord.com/channels/#7012">
   <img align="left" alt="shahid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -9,7 +10,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
 </a>
 <a href="https://www.github.com.com/in/shahid-coder/">
   <img align="left" alt="shahid's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-  
+</a>
 ## &#x270d; Blog & Writing
 Apart from coding,I also maintain a blog - you can find my articles on my website at [blogger](https://shahid-coder.blogspot.com) and on [dev.to](https://dev.to/shahidcoder_78)
 ## 🔧 Technologies & Tools
