@@ -14,8 +14,10 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
   <img align="left" alt="shahid's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" 
 </a>
   
-## &#x270d; Blog & Writing
+<br/>
 
+
+## &#x270d; Blog & Writing
 Apart from coding,I also maintain a blog - you can find my articles on my website at [blogger](https://shahid-coder.blogspot.com) and on [dev.to](https://dev.to/shahidcoder_78)
 
 ## 🔧 Technologies & Tools
