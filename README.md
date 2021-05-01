@@ -10,7 +10,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
   <img align="left" alt="shahid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.github.com.com/shahid-coder/">
+<a href="https://www.github.com/shahid-coder/">
   <img align="left" alt="shahid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
