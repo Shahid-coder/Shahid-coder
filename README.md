@@ -28,14 +28,9 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
 Apart from coding,I also maintain a blog - you can find my articles on my website at 
 <a href="https://shahid-coder.blogspot.com">
     <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
+</a> and on <a href="https://dev.to/shahidcoder_78">
+  <img align="left" width="22" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shahid-coder's DEV Community Profile" >
 </a>
-
-and on 
-
-<a href="https://dev.to/shahidcoder_78">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shahid-coder's DEV Community Profile" height="30" width="30">
-</a>
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
