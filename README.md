@@ -11,9 +11,13 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
 </a>
 
 <a href="https://www.github.com.com/in/shahid-coder/">
-  <img align="left" alt="shahid's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" 
-</a>
   
+</a>
+
+<a href="https://user-images.githubusercontent.com/72285021/116782422-979eec80-aaa6-11eb-91d2-d9a82238dfda.png">
+    <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116782422-979eec80-aaa6-11eb-91d2-d9a82238dfda.png">
+</a>
+
 <br/>
 
 
