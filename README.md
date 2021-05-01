@@ -18,12 +18,12 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
     <img align="left" alt="shahid's gmail" width="22px" src="https://user-images.githubusercontent.com/72285021/116782422-979eec80-aaa6-11eb-91d2-d9a82238dfda.png">
 </a>
 
-<a href="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
-    <img align="left" alt="shahid's coding" src="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
-</a>
-
 <a href="https://shahid-coder.blogspot.com">
     <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
+</a>
+
+<a href="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
+    <img align="left" alt="shahid's coding" src="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
 </a>
 
 <br/>
