@@ -15,21 +15,26 @@ I am shahid ansari and i am a software developer. I am from West Bengal and i am
 </a>
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlKFmblhkJDMTPwBDJxRSLgGzvbGbrvkfjgPRkCxxJcbPwwvbTcRlNgNKLRpTFwPngZJBB">
-    <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116782422-979eec80-aaa6-11eb-91d2-d9a82238dfda.png">
-</a>
-
-<a href="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png>
-    <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
+    <img align="left" alt="shahid's gmail" width="22px" src="https://user-images.githubusercontent.com/72285021/116782422-979eec80-aaa6-11eb-91d2-d9a82238dfda.png">
 </a>
 
 <a href="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
-    <img align="left" alt="shahid's github" src="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
+    <img align="left" alt="shahid's coding" src="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
 </a>
 <br/>
 
 
 ## &#x270d; Blog & Writing
-Apart from coding,I also maintain a blog - you can find my articles on my website at [blogger](https://shahid-coder.blogspot.com) and on [dev.to](https://dev.to/shahidcoder_78)
+Apart from coding,I also maintain a blog - you can find my articles on my website at 
+<a href="https://shahid-coder.blogspot.com">
+    <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
+</a>
+
+and on 
+
+<a href="https://dev.to/shahidcoder_78">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shahid-coder's DEV Community Profile" height="30" width="30">
+</a>
 
 ## 🔧 Technologies & Tools
 
