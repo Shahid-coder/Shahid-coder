@@ -14,9 +14,6 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
   <img align="left" alt="shahid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWslzCwZkfvFKCQDWvjGdKXZtZgdTrsvqQZTSgWcJFhMkMSxwcQndBplVpgnBnNpZTmvPCKZg">
-    <img align="left" alt="shahid's gmail" width="22px" src="https://user-images.githubusercontent.com/72285021/116782422-979eec80-aaa6-11eb-91d2-d9a82238dfda.png">
-</a>
 
 <a href="https://shahid-coder.blogspot.com">
     <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
