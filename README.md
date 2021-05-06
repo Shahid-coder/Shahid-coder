@@ -1,6 +1,7 @@
-<!--**Shahid-coder/Shahid-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am shahid ansari and i am a software developer. I am from West Bengal  and i am currently working from home .You can find me on
+I am shahid ansari and i am a software developer. I am from West Bengal  and i am currently learning python .You can find me on
+
+<div class="container">
 
 <a href="https://discord.com/channels/#7012">
   <img align="left" alt="shahid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -19,10 +20,15 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
     <img align="left" alt="shahid's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
 </a>
 
+<br/>
+
+<div class="user_images">
 <a href="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
     <img align="left" alt="shahid's coding" src="https://user-images.githubusercontent.com/72285021/116783640-6f66bc00-aaad-11eb-89af-d0b57e260c52.gif">
 </a>
+</div>
 
+<br/>
 <br/>
 
 
@@ -38,5 +44,6 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 ## &#x1f4c8; GitHub Stats
 [![Shahid-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-coder&theme=tokyonight&show_icons=true)](https://github.com/shahid-coder)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-coder&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/shahid-coder)
-[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=radical)](https://github.com/Shahid-coder/Shahid-flappy-bird)
-[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis&theme=radical)](https://github.com/Shahid-coder/Shahid-jarvis)
+## Most popular repositories: 
+[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=tokyonight)](https://github.com/Shahid-coder/Shahid-flappy-bird)
+[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis&theme=tokyonight)](https://github.com/Shahid-coder/Shahid-jarvis)
