@@ -36,7 +36,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Shahid-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-coder&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-coder&layout=compact&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird)](https://github.com/Shahid-coder/Shahid-flappy-bird)
-[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis)](https://github.com/Shahid-coder/Shahid-jarvis)
+[![Shahid-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-coder&theme=tokyonight&show_icons=true)](https://github.com/shahid-coder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-coder&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/shahid-coder)
+[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=radical)](https://github.com/Shahid-coder/Shahid-flappy-bird)
+[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis&theme=radical)](https://github.com/Shahid-coder/Shahid-jarvis)
