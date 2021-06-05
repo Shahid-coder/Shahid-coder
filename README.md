@@ -41,5 +41,5 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 [![Shahid-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-coder&theme=vision-friendly-dark&show_icons=true)](https://github.com/shahid-coder)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-coder&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/shahid-coder)
 ## Most popular repositories: 
-[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=midnight-purple)](https://github.com/Shahid-coder/Shahid-flappy-bird)
-[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis&theme=midnight-purple)](https://github.com/Shahid-coder/Shahid-jarvis)
+[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=vision-friendly-dark)](https://github.com/Shahid-coder/Shahid-flappy-bird)
+[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis&theme=vision-friendly-dark)](https://github.com/Shahid-coder/Shahid-jarvis)
