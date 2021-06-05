@@ -3,16 +3,16 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 
 <p align="center">
    <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="java" width="65" height="65"/>\
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="65" height="65"/>\
   </a>
   <a href="https://shahid-coder.blogspot.com/">
-      <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="blogger" width="65" height="65"/>
   </a>
   <a href="https://discord.com/channels/Shahid%20technical#7012">
-      <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="65" height="65"/>
   </a>
   <a href="https://github.com/shahid-coder/">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="65" height="65"/>
   </a>
 </p>
 
