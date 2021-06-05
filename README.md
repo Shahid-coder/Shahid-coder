@@ -3,7 +3,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 
 <p align="center">
    <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="65" height="65"/>\
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="65" height="65"/>
   </a>
   <a href="https://shahid-coder.blogspot.com/">
       <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="blogger" width="65" height="65"/>
