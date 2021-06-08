@@ -42,4 +42,4 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-coder&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/shahid-coder)
 ## Most popular repositories: 
 [![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=vision-friendly-dark)](https://github.com/Shahid-coder/Shahid-flappy-bird)
-[![Shahid-coder](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-jarvis&theme=vision-friendly-dark)](https://github.com/Shahid-coder/Shahid-jarvis)
+[![python-colab](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=python-colab&theme=vision-friendly-dark)](https://github.com/Shahid-coder/python-colab)
