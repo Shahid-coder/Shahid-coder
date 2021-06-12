@@ -2,11 +2,11 @@
 I am shahid ansari and i am a software developer. I am from West Bengal  and i am currently learning python .You can follow me on
 
 <p align="center">
+    <a href="mailto:shahidansari.2088@gmail.com">
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="65" height="65"/>
+  </a>
    <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/">
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="65" height="65"/>
-  </a>
-  <a href="https://shahid-coder.blogspot.com/">
-      <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="blogger" width="65" height="65"/>
   </a>
   <a href="https://discord.com/channels/Shahid%20technical#7012">
       <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="65" height="65"/>
