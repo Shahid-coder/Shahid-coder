@@ -1,19 +1,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am shahid ansari and i am a software developer. I am from West Bengal  and i am currently learning python .You can follow me on
+I am shahid ansari and i am a software developer. I am from West Bengal  and i am currently learning python .You can find me and follow me on
 
 <p align="center">
-    <a href="mailto:shahidansari.2088@gmail.com">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="65" height="65"/>
-  </a>
-   <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="65" height="65"/>
-  </a>
-  <a href="https://discord.com/channels/Shahid%20technical#7012">
-      <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="65" height="65"/>
-  </a>
-  <a href="https://github.com/shahid-coder/">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="65" height="65"/>
-  </a>
+    <a href="mailto:shahidansari.2088@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahidansari.2088@gmail.com-blue?style=flat-square&logo=gmail"></a>
+   <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shahid%20Ansari-blue?style=flat-square&logo=linkedin"></a>
+ <a href="https://github.com/Shahid-coder"><img alt="discord" src="https://img.shields.io/badge/discord-Shahid%20Ansari-blue?style=flat-square&logo=discord"></a>
+ <a href="https://github.com/Shahid-coder"><img alt="Github" src="https://img.shields.io/badge/Github-Shahid%20Ansari-blue?style=flat-square&logo=Github"></a>
 </p>
 
 ## 🔧 Technologies & Tools
