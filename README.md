@@ -4,7 +4,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
 <p align="center">
     <a href="mailto:shahidansari.2088@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahidansari.2088@gmail.com-blue?style=flat-square&logo=gmail"></a>
    <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shahid%20Ansari-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://github.com/Shahid-coder"><img alt="discord" src="https://img.shields.io/badge/discord-Shahid%20Ansari-blue?style=flat-square&logo=discord"></a>
+ <a href="https://discord.com/channels/@me"><img alt="discord" src="https://img.shields.io/badge/discord-Shahid%20Ansari-blue?style=flat-square&logo=discord"></a>
  <a href="https://github.com/Shahid-coder"><img alt="Github" src="https://img.shields.io/badge/Github-Shahid%20Ansari-blue?style=flat-square&logo=Github"></a>
 </p>
 
