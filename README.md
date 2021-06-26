@@ -1,6 +1,16 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am shahid ansari and i am a software developer. I am from West Bengal  and i am currently learning python .You can find me and follow me on
+# Hi there I'm Shahid ansari 👋
 
+## I'm a Developer, Python and Tech Enthuasist, I love to automate stuff!!
+
+- 🔭 I’m currently working on ... Python & ai Projects and OpenSource
+- 🌱 I’m currently learning ... everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🤔 I’m looking for help with learning how to use OpenSource forums
+- 💬 Ask me about anything in tech I bet I will answer 😂 
+- ⚡ Fun fact: I love mathematics, and coding
+- ✍ I recently began blogging @ [Hashnode](https://shahidcoder.hashnode.dev/), [Dev](https://dev.to/@shahidcoder_78) and [blogger](shahid-coder.blogspot.com)
+
+### Connect with me:  
 <p align="center">
     <a href="mailto:shahidansari.2088@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahidansari.2088@gmail.com-blue?style=flat-square&logo=gmail"></a>
    <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shahid%20Ansari-blue?style=flat-square&logo=linkedin"></a>
@@ -8,14 +18,7 @@ I am shahid ansari and i am a software developer. I am from West Bengal  and i a
  <a href="https://github.com/Shahid-coder"><img alt="Github" src="https://img.shields.io/badge/Github-Shahid%20Ansari-blue?style=flat-square&logo=Github"></a>
 </p>
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-visualstudiocode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+## 🔧 Tools & Technologies  
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
