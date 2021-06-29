@@ -1,6 +1,8 @@
-# Hi there I'm Shahid ansari 👋
+# Hi there I'm Shahid ansari <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## I'm a Developer, Python and Tech Enthuasist, I love to automate stuff!!
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height=50> I'm a Developer, Python and Tech Enthuasist, I love to automate stuff!!
 
 - 🔭 I’m currently working on ... Python & ai Projects and OpenSource
 - 🌱 I’m currently learning ... everything 🤣
@@ -32,10 +34,6 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
-## &#x1f4c8; GitHub Stats
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My GitHub Stats
 [![Shahid-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-coder&theme=vision-friendly-dark&show_icons=true)](https://github.com/shahid-coder)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-coder&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/shahid-coder)
-## Most popular repositories: 
-[![Shahid-flappy-bird](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=Shahid-flappy-bird&theme=vision-friendly-dark)](https://github.com/Shahid-coder/Shahid-flappy-bird)
-[![python-colab](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-coder&repo=python-colab&theme=vision-friendly-dark)](https://github.com/Shahid-coder/python-colab)
-
