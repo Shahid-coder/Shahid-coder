@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with learning how to use OpenSource forums
 - 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I love mathematics, and coding
-- ✍ I recently began blogging @ [Hashnode](https://shahidcoder.hashnode.dev/), [Dev](https://dev.to/@shahidcoder_78) and [blogger](shahidcodes.blogspot.com)
+- ✍ I recently began blogging @ [Hashnode](https://shahidcoder.hashnode.dev/), [Dev](https://dev.to/@shahidcoder_78) and [blogger](https://shahidcodes.blogspot.com)
 
 ### Connect with me:  
 <p align="center">
