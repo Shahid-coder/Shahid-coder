@@ -16,7 +16,6 @@
 <p align="center">
     <a href="mailto:shahidansari.2088@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahidansari.2088@gmail.com-blue?style=flat-square&logo=gmail"></a>
    <a href="https://www.linkedin.com/in/shahid-ansari-1033371bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shahid%20Ansari-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://discord.com/channels/@me"><img alt="discord" src="https://img.shields.io/badge/discord-Shahid%20Ansari-blue?style=flat-square&logo=discord"></a>
  <a href="https://github.com/Shahid-coder"><img alt="Github" src="https://img.shields.io/badge/Github-Shahid%20Ansari-blue?style=flat-square&logo=Github"></a>
  <a href="https://www.hackerrank.com/shahidansari_201"><img alt="hackerrank" src="https://img.shields.io/badge/hackerrank-Shahid%20Ansari-blue?style=flat-square&logo=hackerrank"></a>
  <a href="https://www.instagram.com/shahidansari2088"><img alt="instagram" src="https://img.shields.io/badge/instagram-Shahid%20Ansari-blue?style=flat-square&logo=instagram "></a>
