@@ -4,14 +4,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height=50> I'm a Developer, Python and Tech Enthuasist, I love to automate stuff!!
 
-- 🔭 I’m currently working on ... Python & ai Projects and OpenSource
-- 🌱 I’m currently learning ... everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with learning how to use OpenSource forums
-- 💬 Ask me about anything in tech I bet I will answer 😂 
-- ⚡ Fun fact: I love mathematics, and coding
-- ✍ I recently began blogging @ [Hashnode](https://shahidcoder.hashnode.dev/), [Dev](https://dev.to/@shahidcoder_78) and [blogger](https://shahidcodes.blogspot.com)
-
+![alt text](https://github.com/Shahid-coder/Shahid-coder/blob/main/20230406_213747_0000.png)
 ### Connect with me:  
 <p align="center">
     <a href="mailto:shahidansari.2088@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahidansari.2088@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -27,8 +20,6 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GITHUB" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
